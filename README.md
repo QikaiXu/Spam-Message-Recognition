@@ -6,7 +6,7 @@
 
 具体处理信息及说明查看 `main.ipynb`
 
-**注意先解压 `Spam-Message-Recognition/datasets/5f9ae242cae5285cd734b91e-momodel/sms_pub.csv.zip` 到当前目录**。
+**注意先下载数据集 [sms_pub.csv.zip](https://wwe.lanzous.com/i3eFAk6r4cj) 并解压到 `Spam-Message-Recognition/datasets/5f9ae242cae5285cd734b91e-momodel/` 目录下**。
 
 由于训练数据中正负样本不均衡（正负样本⽐例约为 1:10），将会导致拟合效果较差，因此读⼊后在负样本中随机取出⼀定数量作为实验⽤样本，使正负样本数量相同。
 
