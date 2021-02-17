@@ -1,6 +1,6 @@
-# Spam-Message-Recognition
+# 垃圾短信识别
 
-> 浙江大学《机器学习及其应用》作业，垃圾短信识别
+> 浙江大学《机器学习及其应用》作业，垃圾短信识别。
 >
 > 项目来源于：<https://mo.zju.edu.cn/workspace/5fc0eadb7ceb533cc49bce17?type=app&tab=2>（只有我自己的号能打开）
 
