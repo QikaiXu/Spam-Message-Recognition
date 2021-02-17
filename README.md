@@ -4,7 +4,7 @@
 >
 > 项目来源于：<https://mo.zju.edu.cn/workspace/5fc0eadb7ceb533cc49bce17?type=app&tab=2>（只有我自己的号能打开）
 
-具体处理信息及说明查看 `main.ipynb`
+具体处理信息及说明查看 `main.ipynb`。
 
 **注意先下载数据集 [sms_pub.csv.zip](https://wwe.lanzous.com/i3eFAk6r4cj) 并解压到 `Spam-Message-Recognition/datasets/5f9ae242cae5285cd734b91e-momodel/` 目录下**。
 
